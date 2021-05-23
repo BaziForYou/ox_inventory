@@ -1,5 +1,8 @@
+## Unsupported!
+This is the resource as it existed prior to `1.5.0` which forced usage of ESX Legacy.
+
 <h1 align='center'><a href='https://thelindat.github.io/linden_inventory/'>Installation Guide</a></h1>
-<p align='center'><a href='https://streamable.com/bggvpg'>Showcase</a> | <a href='https://discord.gg/hmcmv3P7YW'>Discord</a><br>
+<p align='center'><a href='https://thelindat.github.io/linden_inventory/esx'>Install for ESX v1 Final</a> | <a href='https://thelindat.github.io/linden_inventory/esm'>Install for EXM</a><br>
   <a href='https://thelindat.github.io/linden_inventory/media'>Media</a></p>
 
 
