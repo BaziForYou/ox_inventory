@@ -325,7 +325,8 @@ button:active {
   background-color: $mainColor;
   color: $textColor;
   text-align: center;
-  border-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
 }
 
 .inventory-slot-label-text {
@@ -495,7 +496,7 @@ button:active {
   flex-wrap: nowrap;
   gap: 2px;
   position: absolute;
-  bottom: 20vh;
+  bottom: 10vh;
   left: 50%;
   width: 100%;
   margin-left: calc(50% - calc($gridSize/2));
@@ -505,7 +506,7 @@ button:active {
 .item-notification-action-box {
   width: 100%;
   color: $textColor;
-  background-color: $secondaryColor;
+  //background-color: $mainColor;
   text-transform: uppercase;
   text-align: center;
   border-radius: 0.5rem;
