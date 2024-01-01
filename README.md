@@ -3,10 +3,10 @@
 
 # How i was able to do it?
 These were the resources used to make it look nice and have working hotslots
-[Durple Theme as my starter template, It just looked nice](https://github.com/izmystic/ox_inventory_durple)
-[The base for a few of the colors and where the idea came from to recreate it on the latest release](https://github.com/qw-scripts/ox_inventory/tree/qw-scripts--inspired-design-2.0)
-[How i was able to add the hotslots and make them work correctly](https://github.com/sleepyexe/ox_inventory-nopickles2.0)
-Hope this helps in potentialy recreating it in future builds if i don't
+ [Durple Theme](https://github.com/izmystic/ox_inventory_durple)  as my starter template, It just looked nice 
+ [qw-scripts ox_inventory](https://github.com/qw-scripts/ox_inventory/tree/qw-scripts--inspired-design-2.0) where the idea came from to recreate it on the latest release 
+ [sleepyexe's ox_inventory](https://github.com/sleepyexe/ox_inventory-nopickles2.0) for the hotslots 
+Hope this helps in potentialy recreating it in future builds if I don't.
 
 # Framework
 
