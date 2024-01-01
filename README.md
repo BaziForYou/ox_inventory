@@ -1,6 +1,13 @@
 <div align='center'><img src='https://user-images.githubusercontent.com/65407488/147992899-93998c0a-75fb-4055-8c06-8da8c49342d6.png'/></div>
 <div align='center'><h3><a href='https://overextended.github.io/docs/ox_inventory/'>Read the documentation for setup, installation, and integration</a></h3></div>
 
+# How i was able to do it?
+These were the resources used to make it look nice and have working hotslots
+[Durple Theme as my starter template, It just looked nice](https://github.com/izmystic/ox_inventory_durple)
+[The base for a few of the colors and where the idea came from to recreate it on the latest release](https://github.com/qw-scripts/ox_inventory/tree/qw-scripts--inspired-design-2.0)
+[How i was able to add the hotslots and make them work correctly](https://github.com/sleepyexe/ox_inventory-nopickles2.0)
+Hope this helps in potentialy recreating it in future builds if i don't
+
 # Framework
 
 The inventory was designed with the intention to move towards a more generic / standalone structure so it can be integrated into any framework without too much hassle. I will be writing a guide for manually setting up support _sometime soon™_. In the mean-time, it will work without any alterations if using the latest updates to **[ESX Legacy](https://github.com/esx-framework/esx-legacy)**.
